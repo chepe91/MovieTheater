@@ -1,0 +1,133 @@
+
+
+
+.bg{
+	background-size: cover!important;
+	background-position: center center!important;
+	min-height: 450px;
+	position: relative;
+}
+
+.bg-principal {
+	background: url("../images/banner.jpg");
+}
+
+.bg-natural{
+	background: url("../images/fondo.jpg");
+}
+
+.text-primary{
+	color: #1a99aa;
+}
+
+.sp-top{
+	margin-top: 30px;
+}
+
+.lg-title {
+	text-align: center;
+	position: relative;
+	letter-spacing: 2px;
+	margin-bottom: 40px;
+	text-transform: uppercase;
+	color: #777;
+	font-size: 36px;
+}
+
+.lg-title-border::after {
+	content: "";
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ddd;
+	width: 60%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.no-mrs{
+	margin: 0;
+}
+
+.pds-10{
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.h-center {
+left: 82%;
+-webkit-transform: translate(-50%,-50%);
+-ms-transform: translate(-50%,-50%);
+transform: translate(-50%,-50%);
+width: 35%;
+position: absolute;
+top: 82%;
+}
+.social {
+	margin-bottom: 40px;
+}
+
+.contact-details {
+	margin: 40px 0;
+}
+
+footer{
+	background-color: #C0C0C0;
+}
+
+.txt-center{
+	text-align: center !important;
+}
+
+.background-principal{
+	background: url("/MovieTheater/images/fondo2.png");
+	background-repeat:no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	background-position:center;
+}
+
+
+#navBar .btn {
+vertical-align: middle;
+position: relative;
+margin: 13px;
+margin-left: 0px;
+line-height: 33px;
+background: #707070;
+box-shadow: 0 2px 0 #505050;
+border-radius: 4px;
+color: #ffffff;
+display: inline-block;
+font: 500 14px/38px Roboto, sans-serif;
+height: 37px;
+padding: 0px 20px;
+font-size: 16px !important;
+}
+
+.icon, .icon-small {
+position: relative;
+}
+.btn-icon {
+overflow: hidden;
+padding-left: 60px;
+position: relative;
+}
+
+a.btn:hover, button.btn:hover, .btn-whover:hover {
+background: #686868 !important;
+}
+
+
+.just-icon{
+	width: 40px;
+
+}
+
+
+.just-icon  > span
+{
+	top: 9px !important;  
+	left: -8px !important;
+}
