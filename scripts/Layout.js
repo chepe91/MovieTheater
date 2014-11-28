@@ -96,13 +96,13 @@ function setCookie(cname, cvalue, days) {
      if (days) {
         var date = new Date();
         date.setTime(date.getTime()+(60*60*1000));
-        var expires = "; expires="+date.toGMTString();
+        var expires = "; expires="+date.toGMTString()+';';
     }
-    else var expires = "";
-    document.cookie = name+"="+cvalue+expires+"; path=/";
+    
+    document.cookie = cname+"="+cvalue+expires;
 }
 
-function getCookie(cname) {
+function getCookie(name) {
 	debugger
 	var nameEQ = name + "=";
     var ca = document.cookie.split(';');
