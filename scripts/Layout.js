@@ -3,25 +3,26 @@
 $(document).ready(function(){
 
 
-	
+	if(document.cookie.indexOf('c=') == -1)
+	{
 
-	jQuery.ajax({
-	'type':'POST',
-	'data':{},
-	'url':'/MovieTheater/index.php/site/Cookie',
-	'cache':false,
-	success: function(response){
-		debugger
-   		setCookie('c',response.Cookie,1);
-   		var a = document.cookie;
-		alert(getCookie('c'));
-  	},
- 	 error: function(xhr){
-      	alert("failure: "+xhr.readyState+this.url)
+		jQuery.ajax({
+		'type':'POST',
+		'data':{},
+		'url':'/MovieTheater/index.php/site/Cookie',
+		'cache':false,
+		success: function(response){
+			debugger
+	   		setCookie('c',response.Cookie,1);
+	   		var a = document.cookie;
+			alert(getCookie('c'));
+	  	},
+	 	 error: function(xhr){
+	      	alert("failure: "+xhr.readyState+this.url)
 
-    	  }
-	});
-
+	    	  }
+		});
+	}
 
 
 
@@ -92,7 +93,6 @@ $(document).ready(function(){
 
 
 function setCookie(cname, cvalue, days) {
-	debugger
      if (days) {
         var date = new Date();
         date.setTime(date.getTime()+(60*60*1000));
@@ -103,7 +103,6 @@ function setCookie(cname, cvalue, days) {
 }
 
 function getCookie(name) {
-	debugger
 	var nameEQ = name + "=";
     var ca = document.cookie.split(';');
     for(var i=0;i < ca.length;i++) {

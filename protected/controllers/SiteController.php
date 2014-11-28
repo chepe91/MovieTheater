@@ -69,14 +69,14 @@ class SiteController extends Controller
 
 
 		
-		//$identity=new UserIdentity($username,$password);
+		$identity=new UserIdentity($username,$password);
 
-		$Result = true;
+		$Result = false;
 
-		// if($identity->authenticate()){
-		//     Yii::app()->user->login($identity);
-		//     $Result = true;
-		// }
+		 if($identity->authenticate()){
+		     Yii::app()->user->login($identity);
+	     $Result = true;
+	    }
 	    
 	    echo CJavaScript::jsonEncode(array('result' => $Result));
 
