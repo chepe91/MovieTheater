@@ -18,6 +18,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/style.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/custom.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/ui.css" />
+	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/sweet-alert.css" />
 
 	<script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/jquery-1.11.1.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/bower_components/font-awesome/css/font-awesome.min.css" />
@@ -37,7 +38,7 @@
 					<span class='icon-bar'></span>
 					<span class='icon-bar'></span>
 				</button>
-				<a class='navbar-brand' href='index.php' style='padding: 5px 15px;'><img style='height:40px;' src='images/logo.png' class='css-logo-btn' ></a>
+				<a class='navbar-brand' href='<?php echo Yii::app()->request->baseUrl; ?>' style='padding: 5px 15px;'><img style='height:40px;' src='<?php echo Yii::app()->request->baseUrl; ?>/images/logo.png' class='css-logo-btn' ></a>
 			</div>
 			<div id='bs-example-navbar-collapse-1'class='collapse navbar-collapse' >
 				<ul class='nav navbar-nav'>
@@ -45,10 +46,9 @@
 				</ul>
 				<?php 
 					if(!Yii::app()->user->isGuest) 
+						//<li><span class='btn btn-icon icon icon-user just-icon'><span class='glyphicon glyphicon-shopping-cart'></span></span></li>
 						echo "<ul class='nav navbar-nav navbar-right'> 
-								<li><span class='btn btn-icon icon icon-user just-icon'>
-									<span class='glyphicon glyphicon-shopping-cart'></span>
-								</span></li>
+								
 								<li><span href='' class='btn btn-icon icon icon-user'>
 									<span class='glyphicon glyphicon-user'></span>
 									Perfil
@@ -64,10 +64,10 @@
 									<span class='glyphicon glyphicon-user'></span>
 									Ingresar
 								</span></li>
-								<li><span href='' class='btn btn-icon icon icon-user'>
+								<li><a href='/MovieTheater/index.php/site/Registro' class='btn btn-icon icon icon-user'>
 									<span class='glyphicon glyphicon-pencil'></span>
 									Registrarse
-								</span></li>
+								</a></li>
 							</ul>";
 
 				?>
@@ -85,7 +85,7 @@
                     <div class='col-md-4 contact-details'>
                         <h4><i class='fa fa-phone'></i> Teléfono</h4>
                         <p class='txt-center' id="cookie">
-                        	<?php echo crypt( 1000 , 'llavedeecriptacionparalascookies') ?>
+                        	
                         </p>
                     </div>
                     <div class='col-md-4 contact-details'>
@@ -157,6 +157,7 @@
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/vendor.js"></script>
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/bootstrap.min.js"></script>
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/Layout.js"></script>
+<script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/sweet-alert.min.js"></script>
 
 
 </html>

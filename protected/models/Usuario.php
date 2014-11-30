@@ -7,6 +7,7 @@ class Usuario extends CActiveRecord
     {
         return parent::model($className);
     }
+
 }
 
 ?>

@@ -30,8 +30,6 @@ $(document).ready(function(){
 		$("#ModalLogIn").modal('show');
 	});
 
-
-
 	$("#LoginBtn").click(function(){
 
 		params = {
@@ -45,18 +43,18 @@ $(document).ready(function(){
 			'url':'/MovieTheater/index.php/site/Login',
 			'cache':false,
 			success: function(response){
-	      	
+	      		debugger
 	       		if(response.result)
 	       			location.reload();
 	       		else
 	       			alert('error');
 
           	},
-	     	 error: function(xhr){
+	     	error: function(xhr){
 		      	alert("failure: "+xhr.readyState+this.url)
 
 		    	  }
-			});
+		});
 
 
 

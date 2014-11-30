@@ -64,21 +64,19 @@ class SiteController extends Controller
 		
 		header('Content-type: application/json');
 
-		$username = isset($_POST['cEmail'])?$_POST['cEmail'] : null;
+		$username = isset($_POST['cEmail'])? $_POST['cEmail'] : null;
 		$password = isset($_POST['cPassword'])?$_POST['cPassword'] : null;
 
-
-		
-		$identity=new UserIdentity($username,$password);
+		$identity= new UserIdentity($username,$password);
 
 		$Result = false;
 
 		 if($identity->authenticate()){
 		     Yii::app()->user->login($identity);
-	     $Result = true;
+	     	$Result = true;
 	    }
 	    
-	    echo CJavaScript::jsonEncode(array('result' => $Result));
+	    echo CJavaScript::jsonEncode(array('result' => $Result , 'u' => $username , 'p' => $password ));
 
 	}
 
@@ -102,6 +100,56 @@ class SiteController extends Controller
 			else
 				$this->render('error', $error);
 		}
+	}
+
+	public function actionRegistro(){
+
+		if(!Yii::app()->user->isGuest)
+			$this->render('Index',array());
+		else
+			$this->render('Registro',array());
+	}
+
+	public function actionRegistrarme(){
+		header('Content-type: application/json');
+		$model=Usuario::model();
+		$transaction=$model->dbConnection->beginTransaction();
+
+		$Result = false;
+		$Mensaje = '';
+		
+		$Usuario = new Usuario;
+		
+		try
+		{
+			$Usuario->cEmail = isset($_POST['cEmailR'])? $_POST['cEmailR'] : null;
+			$Usuario->cPassword = isset($_POST['cPasswordR'])? $_POST['cPasswordR'] : null;
+			
+			$Usuario->cPassword = crypt($Usuario->cPassword,$Usuario->cPassword);
+
+			$Usuario->cNombre = isset($_POST['cNombre'])? $_POST['cNombre'] : null;
+
+			$Usuario->cApellidoPaterno = isset($_POST['cPaterno'])? $_POST['cPaterno'] : null;
+			$Usuario->cApellidoMaterno = isset($_POST['cMaterno'])? $_POST['cMaterno'] : null;
+			$Usuario->Sexo = isset($_POST['Sexo'])? $_POST['Sexo'] : null;
+			$Usuario->nTarjetaCine = isset($_POST['nTarjeta']) && $_POST['nTarjeta']!= "" ? $_POST['nTarjeta'] : null;
+
+			$Usuario->save();
+			$transaction->commit();
+
+			$Result = true;
+			$Mensaje = 'Felicidades te has registrado con éxito';
+		}
+		catch(Exception $e){
+				
+			 $transaction->rollBack();
+			 if( $e->getMessage() =="CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'cEmail'. The SQL statement executed was: INSERT INTO `Usuario` (`cEmail`, `cPassword`, `cNombre`, `cApellidoPaterno`, `cApellidoMaterno`, `nTarjetaCine`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5)" )
+			 	$Mensaje = 'El correo ya existe';
+			 else 
+			 	$Mensaje = 'Ocurrió un error favor intentarlo mas tarde.';
+		}
+
+		 echo CJavaScript::jsonEncode(array('result' => $Result , 'Msg' => $Mensaje , 'error'=> $Usuario->getErrors()));
 	}
 
 	public function actionCookie(){

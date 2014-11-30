@@ -3038,3 +3038,98 @@ Stack trace:
 #6 C:\wamp\www\MovieTheater\index.php(13): CWebApplication->run()
 REQUEST_URI=/MovieTheater/
 in C:\wamp\www\MovieTheater\index.php (13)
+2014/11/29 00:30:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Registro".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('Registro')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('Registro')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Registro')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/MovieTheater/index.php/site/Registro
+---
+2014/11/29 00:34:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/images/log...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/MovieTheater/index.php/site/images/logo.png
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/29 00:37:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "c".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('c')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('c')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/c/css/ui.c...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/MovieTheater/index.php/site/c/css/ui.css
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/29 06:37:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.php".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('index.php')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('index.php')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/index.php')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/MovieTheater/index.php/site/index.php
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 04:08:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Registrarme".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('Registrarme')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('Registrarme')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Registrarm...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/MovieTheater/index.php/site/Registrarme
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro?
+---
+2014/11/30 04:08:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Registrarme".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('Registrarme')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('Registrarme')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Registrarm...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/MovieTheater/index.php/site/Registrarme
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro?
+---
+2014/11/30 04:21:02 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'cEmail'. The SQL statement executed was: INSERT INTO `Usuario` (`cEmail`, `cPassword`, `cNombre`, `cApellidoPaterno`, `cApellidoMaterno`, `Sexo`, `nTarjetaCine`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6).
+in C:\wamp\www\MovieTheater\protected\controllers\SiteController.php (135)
+in C:\wamp\www\MovieTheater\index.php (13)
+2014/11/30 05:21:49 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'cEmail'. The SQL statement executed was: INSERT INTO `Usuario` (`cEmail`, `cPassword`, `cNombre`, `cApellidoPaterno`, `cApellidoMaterno`, `nTarjetaCine`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in C:\wamp\www\MovieTheater\protected\controllers\SiteController.php (137)
+in C:\wamp\www\MovieTheater\index.php (13)
+2014/11/30 05:22:00 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'cEmail'. The SQL statement executed was: INSERT INTO `Usuario` (`cEmail`, `cPassword`, `cNombre`, `cApellidoPaterno`, `cApellidoMaterno`, `nTarjetaCine`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in C:\wamp\www\MovieTheater\protected\controllers\SiteController.php (137)
+in C:\wamp\www\MovieTheater\index.php (13)
+2014/11/30 05:28:52 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'cEmail'. The SQL statement executed was: INSERT INTO `Usuario` (`cEmail`, `cPassword`, `cNombre`, `cApellidoPaterno`, `cApellidoMaterno`, `nTarjetaCine`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in C:\wamp\www\MovieTheater\protected\controllers\SiteController.php (139)
+in C:\wamp\www\MovieTheater\index.php (13)
+2014/11/30 05:28:56 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'cEmail'. The SQL statement executed was: INSERT INTO `Usuario` (`cEmail`, `cPassword`, `cNombre`, `cApellidoPaterno`, `cApellidoMaterno`, `nTarjetaCine`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in C:\wamp\www\MovieTheater\protected\controllers\SiteController.php (139)
+in C:\wamp\www\MovieTheater\index.php (13)
+2014/11/30 05:30:35 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'cEmail'. The SQL statement executed was: INSERT INTO `Usuario` (`cEmail`, `cPassword`, `cNombre`, `cApellidoPaterno`, `cApellidoMaterno`, `nTarjetaCine`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in C:\wamp\www\MovieTheater\protected\controllers\SiteController.php (137)
+in C:\wamp\www\MovieTheater\index.php (13)
+2014/11/30 05:30:50 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'cEmail'. The SQL statement executed was: INSERT INTO `Usuario` (`cEmail`, `cPassword`, `cNombre`, `cApellidoPaterno`, `cApellidoMaterno`, `nTarjetaCine`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in C:\wamp\www\MovieTheater\protected\controllers\SiteController.php (137)
+in C:\wamp\www\MovieTheater\index.php (13)
+2014/11/30 05:32:17 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'cEmail'. The SQL statement executed was: INSERT INTO `Usuario` (`cEmail`, `cPassword`, `cNombre`, `cApellidoPaterno`, `cApellidoMaterno`, `nTarjetaCine`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in C:\wamp\www\MovieTheater\protected\controllers\SiteController.php (137)
+in C:\wamp\www\MovieTheater\index.php (13)
+2014/11/30 05:33:22 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'cEmail'. The SQL statement executed was: INSERT INTO `Usuario` (`cEmail`, `cPassword`, `cNombre`, `cApellidoPaterno`, `cApellidoMaterno`, `nTarjetaCine`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in C:\wamp\www\MovieTheater\protected\controllers\SiteController.php (137)
+in C:\wamp\www\MovieTheater\index.php (13)
+2014/11/30 05:57:08 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'cEmail'. The SQL statement executed was: INSERT INTO `Usuario` (`cEmail`, `cPassword`, `cNombre`, `cApellidoPaterno`, `cApellidoMaterno`, `nTarjetaCine`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in C:\wamp\www\MovieTheater\protected\controllers\SiteController.php (137)
+in C:\wamp\www\MovieTheater\index.php (13)
