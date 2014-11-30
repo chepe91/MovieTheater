@@ -3133,3 +3133,19 @@ in C:\wamp\www\MovieTheater\index.php (13)
 2014/11/30 05:57:08 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'cEmail'. The SQL statement executed was: INSERT INTO `Usuario` (`cEmail`, `cPassword`, `cNombre`, `cApellidoPaterno`, `cApellidoMaterno`, `nTarjetaCine`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
 in C:\wamp\www\MovieTheater\protected\controllers\SiteController.php (137)
 in C:\wamp\www\MovieTheater\index.php (13)
+2014/11/30 20:57:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Eventos".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Eventos')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/Eventos/
+---
+2014/11/30 20:57:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Eventos/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Eventos/index')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/Eventos/index
+---

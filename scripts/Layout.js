@@ -24,7 +24,11 @@ $(document).ready(function(){
 		});
 	}
 
-
+	$("#cPassword").keyup(function(event){
+	    if(event.keyCode == 13){
+	        $("#LoginBtn").click();
+	    }
+	});
 
 	$("#IniciarSesion").click(function(){
 		$("#ModalLogIn").modal('show');
@@ -53,7 +57,7 @@ $(document).ready(function(){
 	     	error: function(xhr){
 		      	alert("failure: "+xhr.readyState+this.url)
 
-		    	  }
+    	  	}
 		});
 
 

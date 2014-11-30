@@ -23,7 +23,6 @@
 	<script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/jquery-1.11.1.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/bower_components/font-awesome/css/font-awesome.min.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/bower_components/weather-icons/css/weather-icons.min.css" />
-
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
 </head>
 
@@ -38,7 +37,7 @@
 					<span class='icon-bar'></span>
 					<span class='icon-bar'></span>
 				</button>
-				<a class='navbar-brand' href='<?php echo Yii::app()->request->baseUrl; ?>' style='padding: 5px 15px;'><img style='height:40px;' src='<?php echo Yii::app()->request->baseUrl; ?>/images/logo.png' class='css-logo-btn' ></a>
+				<a class='navbar-brand' href='<?php echo Yii::app()->request->baseUrl; ?>' style='padding: 5px 15px;margin-left:-75px;'><img style='' src='<?php echo Yii::app()->request->baseUrl; ?>/images/logo.png' class='css-logo-btn' ></a>
 			</div>
 			<div id='bs-example-navbar-collapse-1'class='collapse navbar-collapse' >
 				<ul class='nav navbar-nav'>

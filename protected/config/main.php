@@ -47,6 +47,7 @@ return array(
             'username'=>'root',
             'password'=>'',
             'emulatePrepare'=>true,  // needed by some MySQL installations
+            'charset' => 'utf8',
 		),
 		'errorHandler'=>array(
 			// use 'site/error' action to display errors
