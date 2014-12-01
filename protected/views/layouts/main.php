@@ -20,7 +20,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/ui.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/sweet-alert.css" />
 
-	<script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/jquery-1.11.1.min.js"></script>
+	<script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/jquery-1.9.1.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/bower_components/font-awesome/css/font-awesome.min.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/bower_components/weather-icons/css/weather-icons.min.css" />
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
@@ -75,6 +75,20 @@
 		</div>
 	</nav>
 	
+
+
+
+        <div id="top-menu">
+	      <ul class="wrapper">
+	        
+	        <li><a href="/Cartelera">Cines</a></li>
+	        <li><a href="/platino">Platino</a></li>
+	        <li><a href="/premium">Premium</a></li>	
+	        <li><a href="/nosotros/">Nosotros</a></li>
+	      </ul><!-- #top-menu -->
+	    </div>
+  
+
 		<?php echo $content; ?>
 	
 

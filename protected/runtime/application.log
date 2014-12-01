@@ -3149,3 +3149,1731 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/MovieTheater/index.php/Eventos/index
 ---
+2014/11/30 22:48:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/01.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/02.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/03.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/04.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/05.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/07.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/06.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/08.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/09.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/10.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/02.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/a17.png".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/a17.png')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/a17.png
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/loading.gif
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-12.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-12.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/11.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/11.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/11.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/03.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-11.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-11.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/12.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/12.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/12.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/01.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/01.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/02.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/03.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/05.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/04.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/06.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/07.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/08.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/09.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-11.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-11.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/12.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/12.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/12.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/10.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/11.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/11.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/11.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/loading.gif
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-12.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-12.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/02.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/01.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/01.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/02.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/03.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/04.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/05.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/06.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/07.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/08.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/09.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/10.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/12.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/12.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/12.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-12.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-12.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-11.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-11.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/11.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/11.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/11.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/01.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/02.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/03.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/04.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/08.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/07.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/09.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/10.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/loading.gif
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/06.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/05.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/01.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/02.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/03.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/04.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/05.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/06.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/07.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/08.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/loading.gif
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/09.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/10.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-11.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-11.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/02.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-12.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-12.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/01.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/12.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/12.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/12.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/11.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/11.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/11.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:52:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/02.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/03.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/04.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/06.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/05.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/07.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/08.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/09.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/10.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-12.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-12.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/loading.gif
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/11.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/11.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/11.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/12.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/12.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/12.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:54:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-11.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-11.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/02.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/03.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/04.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/05.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/06.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/06.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/06.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/08.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/07.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/07.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/07.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/09.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-08.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-08.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-09.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-09.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/10.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/11.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/11.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/11.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-10.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-10.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/04.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-01.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-01.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/02.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/loading.gif
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-02.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-02.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-04.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-04.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/05.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/05.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/05.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/03.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-12.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-12.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-03.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-03.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/thumb-11.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/thumb...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/thumb-11.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/alila/12.jpg".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/alila/12.jp...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/alila/12.jpg
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:56:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/loading.gif
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:56:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/loading.gif
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:58:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/loading.gif
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
+2014/11/30 22:58:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\MovieTheater\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MovieTheater/index.php/img/loading.gif
+HTTP_REFERER=http://localhost/MovieTheater/index.php/site/Registro
+---
