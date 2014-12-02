@@ -27,55 +27,25 @@ $this->pageTitle=Yii::app()->name;
 
         <!-- Slides Container -->
         <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1344px; height: 500px; overflow: hidden;">
-            <div>
-                <img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/01.jpg" />
-                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/thumb-01.jpg" />
-            </div>
-            <div>
-                <img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/02.jpg" />
-                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/thumb-02.jpg" />
-            </div>
-            <div>
-                <img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/03.jpg" />
-                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/thumb-03.jpg" />
-            </div>
-            <div>
-                <img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/04.jpg" />
-                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/thumb-04.jpg" />
-            </div>
-            <div>
-                <img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/05.jpg" />
-                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/thumb-05.jpg" />
-            </div>
-            <div>
-                <img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/06.jpg" />
-                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/thumb-06.jpg" />
-            </div>
-            <div>
-                <img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/07.jpg" />
-                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/thumb-07.jpg" />
-            </div>
-            <div>
-                <img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/08.jpg" />
-                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/thumb-08.jpg" />
-            </div>
-            <div>
-                <img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/09.jpg" />
-                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/thumb-09.jpg" />
-            </div>
-            <div>
-                <img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/10.jpg" />
-                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/thumb-10.jpg" />
-            </div>
             
-            <div>
-                <img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/11.jpg" />
-                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/thumb-11.jpg" />
-            </div>
-            <div>
-                <img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/12.jpg" />
-                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/alila/thumb-12.jpg" />
-            </div>
+        <?php
+
+        	foreach ($Peliculas as $Pelicula) {    ?>
+	    		<div>
+	                <a href='<?php echo Yii::app()->request->baseUrl; ?>/index.php/Eventos/ConsultarPelicula?n=1'>
+	                	<img u="image" src="<?php echo Yii::app()->request->baseUrl; ?>/images/escena/<?php echo $Pelicula->cImagen?>" />
+	                </a>
+	                
+	                <img u="thumb" src="<?php echo Yii::app()->request->baseUrl; ?>/images/poster/<?php echo $Pelicula->cImagenPoster?>" />
+	            </div>
+        <?php	}
+
+        ?>
+
+           
+         
+         
+          
         </div>
         
         <!-- Arrow Navigator Skin Begin -->

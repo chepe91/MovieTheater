@@ -4,7 +4,7 @@
 
 
 
-class SiteController extends Controller
+class EventosController extends Controller
 {
 	/**
 	 * Declares class-based actions.
@@ -43,22 +43,21 @@ class SiteController extends Controller
 	 * when an action is not explicitly requested by users.
 	 */
 	public function actionIndex()
-	{
-		
+	{	
 		$this->render('index' , array());
-
-/*
-		$criteria=new CDbCriteria;
-		$criteria->select='nUser';  // seleccionar solo la columna 'title'
-		$criteria->condition='nUser=:nUser';
-		$criteria->params=array(':nUser'=>1);
-		$Usuario=Usuario::model()->find($criteria); // $params no es necesario
-
-*/
-		
-
 	}
 
+	public function actionConsultarPelicula(){
+
+		$id = isset($_GET['n'])? $_GET['n'] : 'kappa';
+
+		$Pelicula = new Pelicula;
+
+		$r = $Pelicula->consultaPelicula($id);
+
+
+		$this->render('index' , array( 'id' => $r));
+	}
 
 	
 	/**

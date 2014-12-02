@@ -45,8 +45,13 @@ class SiteController extends Controller
 	public function actionIndex()
 	{
 		
-		$this->render('index' , array());
+		
+		
+		$Pelicula = Pelicula::model()->findAll('',array());
 
+		$this->render('index' , array( 'Peliculas'=>$Pelicula));
+
+		//$this->render('productos', array('ListaGanado'=>$ListaGanado));	
 /*
 		$criteria=new CDbCriteria;
 		$criteria->select='nUser';  // seleccionar solo la columna 'title'
