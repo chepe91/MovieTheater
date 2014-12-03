@@ -53,10 +53,10 @@ class EventosController extends Controller
 
 		$Pelicula = new Pelicula;
 
-		$r = $Pelicula->consultaPelicula($id);
+		$DatosPelicula = $Pelicula->consultaPelicula($id);
 
 
-		$this->render('index' , array( 'id' => $r));
+		$this->render('index' , array( 'DatosPelicula' => $DatosPelicula));
 	}
 
 	

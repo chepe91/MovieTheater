@@ -5760,7 +5760,7 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 .well {
   min-height: 20px;
   padding: 19px;
-  margin-bottom: 20px;
+  /*margin-bottom: 20px;*/
   background-color: whitesmoke;
   border: 1px solid #e3e3e3;
   border-radius: 2px;

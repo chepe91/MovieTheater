@@ -2,6 +2,9 @@
 
 $(document).ready(function(){
 
+	$(function () {
+	  $('[data-toggle="tooltip"]').tooltip();
+	})
 
 	if(document.cookie.indexOf('c=') == -1)
 	{

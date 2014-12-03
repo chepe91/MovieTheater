@@ -78,15 +78,15 @@
 
 
 
-        <div id="top-menu">
+<!--         <div id="top-menu">
 	      <ul class="wrapper">
 	        
 	        <li><a href="/Cartelera">Cines</a></li>
 	        <li><a href="/platino">Platino</a></li>
 	        <li><a href="/premium">Premium</a></li>	
 	        <li><a href="/nosotros/">Nosotros</a></li>
-	      </ul><!-- #top-menu -->
-	    </div>
+	      </ul><!-- #top-menu ->
+	    </div> -->
   
 
 		<?php echo $content; ?>
