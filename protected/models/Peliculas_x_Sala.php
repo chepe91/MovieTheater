@@ -12,7 +12,7 @@ class Peliculas_x_Sala extends CActiveRecord
 	public function relations()
 	{
 		return array(
-			'Peliculas_x_Sala'=>array(self::MANY_MANY, 'Pelicula', 'Peliculas_x_Sala(nPelicula, nSala)'),
+			'Peliculas_x_Sala'=>array(self::B, 'Pelicula', 'Peliculas_x_Sala(nPelicula, nSala)'),
 			);
 	}
 

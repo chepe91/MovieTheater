@@ -53,41 +53,25 @@ $this->pageTitle=Yii::app()->name;
 		<div class="col-sm-4" style="padding: 25px;padding-top: 0px;">
 			<div class="col-sm-12 infoSalas">
 				<div class="row" style="margin-bottom:5px;">
-					<div class="well well-sm">Sala 1</div>
+					<div class="well well-sm"> Horarios</div>
 					<div class="salasxPelicula">
 						<ul>
-							<li data-toggle="tooltip" data-placement="left" title="Click para comprar boletos"><i class="fa fa-clock-o"></i> 7:20</li>
-							<li><i class="fa fa-clock-o"></i> 7:20</li>
-							<li><i class="fa fa-clock-o"></i> 7:20</li>
-							<li><i class="fa fa-clock-o"></i> 7:20</li>
-							<li><i class="fa fa-clock-o"></i> 7:20</li>
+							<?php 
+								foreach ($DatosPelicula->salas as $sala ) {
+									foreach($sala->funcions as $funcion){ ?>
+										<li data-toggle="tooltip" data-placement="left" title="Click para comprar boletos">
+											<i class="fa fa-clock-o"></i> 
+											<?php echo
+											date ('H:i',strtotime($funcion->HoraInicio)) ; ?>
+
+									 	</li>
+
+							<?php } } ?>
+
 						</ul>
 					</div>
 				</div>
-				<div class="row" style="margin-bottom:5px;">
-					<div class="well well-sm">Sala 2</div>
-					<div class="salasxPelicula">
-						<ul>
-							<li><i class="fa fa-clock-o"></i> 2:20</li>
-							<li><i class="fa fa-clock-o"></i> 2:20</li>
-							<li><i class="fa fa-clock-o"></i> 2:20</li>
-							<li><i class="fa fa-clock-o"></i> 2:20</li>
-							<li><i class="fa fa-clock-o"></i> 2:20</li>
-						</ul>
-					</div>
-				</div>
-				<div class="row" style="margin-bottom:5px;">
-					<div class="well well-sm">Sala 2</div>
-					<div class="salasxPelicula">
-						<ul>
-							<li><i class="fa fa-clock-o"></i> 2:20</li>
-							<li><i class="fa fa-clock-o"></i> 2:20</li>
-							<li><i class="fa fa-clock-o"></i> 2:20</li>
-							<li><i class="fa fa-clock-o"></i> 2:20</li>
-							<li><i class="fa fa-clock-o"></i> 2:20</li>
-						</ul>
-					</div>
-				</div>
+				
 
 			</div>
 		</div>
@@ -97,17 +81,8 @@ $this->pageTitle=Yii::app()->name;
 
 
 	<div class="row ">
-		<h2>Sala 1</h2>
-		<div class="salasxPelicula col-sm-offset-1">
-
-
-			<ul>
-				<li><i class="fa fa-clock-o"></i>7:20</li><li>7:20</li><li>7:20</li>
-			</ul>
-			
-
-		</div>
-
+		
+		
 
 	</div>
 
