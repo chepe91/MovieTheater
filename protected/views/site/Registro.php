@@ -3,40 +3,40 @@
 	
 	<h2 id="forms-controls" style="padding-top:45px;">Bienvenido al registro</h2>
 
-	<form class="form-horizontal" role="form" style="padding-top:15px;">
+	<form class="form-horizontal" role="form" style="padding-top:15px;" id="form">
 		<div class="form-group">
 			<label for="cEmailR" class="col-sm-4 control-label">Email</label>
-			<div class="col-sm-5">
+			<div class="col-sm-5" id="div_cEmailR">
 				<input type="email" class="form-control" id="cEmailR" placeholder="Email" maxlength="50">
 			</div>
 		</div>
 		<div class="form-group">
 			<label for="cPasswordR" class="col-sm-4 control-label">Password</label>
-			<div class="col-sm-5">
+			<div class="col-sm-5" id="div_cPasswordR">
 				<input type="password" class="form-control" id="cPasswordR" placeholder="Password" maxlength="50">
 			</div>
 		</div>
 		<div class="form-group">
 			<label for="cNombre" class="col-sm-4 control-label">Nombre</label>
-			<div class="col-sm-5">
+			<div class="col-sm-5" id="div_cNombre">
 				<input type="text" class="form-control" id="cNombre" placeholder="Nombre" maxlength="50">
 			</div>
 		</div>
 		<div class="form-group">
 			<label for="cPaterno" class="col-sm-4 control-label">Apellido paterno</label>
-			<div class="col-sm-5">
+			<div class="col-sm-5" id="div_cPaterno">
 				<input type="text" class="form-control" id="cPaterno" placeholder="Apellido paterno" maxlength="50">
 			</div>
 		</div>
 		<div class="form-group">
 			<label for="cMaterno" class="col-sm-4 control-label">Apellido materno</label>
-			<div class="col-sm-5">
+			<div class="col-sm-5" id="div_cMaterno">
 				<input type="text" class="form-control" id="cMaterno" placeholder="Apellido materno" maxlength="50">
 			</div>
 		</div>
 		<div class="form-group">
 			<label for="nTarjeta" class="col-sm-4 control-label">Tarjeta cine</label>
-			<div class="col-sm-5">
+			<div class="col-sm-5" id="div_nTarjeta">
 				<input type="text" class="form-control" id="nTarjeta" placeholder="Tarjeta cine" maxlength="20">
 			</div>
 		</div>

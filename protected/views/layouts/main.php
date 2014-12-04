@@ -20,7 +20,6 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/ui.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/sweet-alert.css" />
 
-	<script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/jquery-1.9.1.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/bower_components/font-awesome/css/font-awesome.min.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/bower_components/weather-icons/css/weather-icons.min.css" />
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
@@ -169,8 +168,10 @@
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/ui.js"></script>
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/vendor.js"></script>
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/bootstrap.min.js"></script>
+<script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/happy.js"></script>
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/Layout.js"></script>
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/sweet-alert.min.js"></script>
+<script src="<?php echo Yii::app()->request->baseUrl; ?>/scripts/scripts.js"></script>
 
 
 </html>
